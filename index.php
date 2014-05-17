@@ -28,8 +28,9 @@
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="#">Inicio</a></li>
-            <li><a href="#about">Cadastro de Doador</a></li>
-            <li><a href="#contact">Cadastro de Responsável</a></li>
+            <li><a href="#">Cadastro de Doador</a></li>
+            <li><a href="#">Cadastro de Responsável</a></li>
+            <li><a href="#">Cadastro de Doação</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
